@@ -1,6 +1,6 @@
 
 HELP.md
-build/
+build
 !**/src/main/**
 !**/src/test/**
 
@@ -10,8 +10,11 @@ build/
 *.iml
 *.ipr
 
+*.class
+
 ### Gradle ###
 .gradle
 
 ### Logs ###
 *.log
+
