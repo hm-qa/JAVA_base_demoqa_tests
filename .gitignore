@@ -9,7 +9,6 @@ build
 *.iws
 *.iml
 *.ipr
-
 *.class
 
 ### Gradle ###
@@ -17,4 +16,5 @@ build
 
 ### Logs ###
 *.log
+
 
